@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    margin-top: 230px;
+    /* margin-top(위쪽 간결을) 3.230px만큼 떨어트려라 */
+    font-size: 90px;
+}
+
+h1 span:nth-child(1) {
+    color: #799dd8;
+}
+
+h1 span:nth-child(2) {
+    color: #f4746e;
+}
+
+h1 span:nth-child(3) {
+    color: #f7d75d;
+}
+
+h1 span:nth-child(4) {
+    color: #799dd8;
+}
+
+h1 span:nth-child(5) {
+    color: #87d085;
+}
+
+h1 span:nth-child(6) {
+    color: #f4746e;
+}
+
+.search-bar {
+    width: 500px;
+}
